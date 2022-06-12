@@ -1,6 +1,6 @@
 title: accio
 description: accio3014 github pages.
-author: Accio3014
+author: accio3014
 avatar: /profile.png
 email: accio3014@gmail.com
 
@@ -36,8 +36,6 @@ logo: profile.png
 social:
 #  name: Shangzhi Huang
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
     - https://github.com/Accio3014
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
