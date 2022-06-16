@@ -12,5 +12,11 @@
       url: /faq/
     - title: Docs
       url: /docs/
+- title: Project & Event
+  sublinks:
+    - title: Project
+      url: /project/
+    - title: Event
+      url: /event/
 - title: app-ads.txt
   url: /app-ads.txt/
