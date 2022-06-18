@@ -4,7 +4,6 @@
 
 layout: home
 ---
-
 <span style="font-size:2em; color:#33FFFF;">Personal</span>
 <br>      
 ❖  정석천      
@@ -14,11 +13,20 @@ layout: home
 <br>
 <br>
 
+<span style="font-size:2em; color:#33FFFF;">Career</span>
+<br>
+❖  현) CIT 코딩학원 압구정점 강사 (2022.03)  
+❖  현) (주)마준소프트 IDC팀 매니저 (2022.03 ~ )   
+<br>
+<br>
+<br>
+
 <span style="font-size:2em; color:#33FFFF;">Activity</span>
-<br>   
+<br>
 ❖  CTF 대회 참여   
 ❖  학생동아리 'assem' 회장 (2022.03 ~ )    
 ❖  'Doubles1405' 스터디 회원 (2020.03 ~ )      
+<br>
 ❖  창원시 진해청년기획단 활동 (2021.03.01 ~ 2021.12.31)       
 ❖  아두이노 활용 메이커 전문가 교육 수료 (2020.09)          
 <br>

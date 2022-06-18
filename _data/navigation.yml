@@ -1,22 +1,24 @@
-#- title: About
-#  url: /about/
-- title: Years
-  url: /years/
-- title: Categories
-  url: /categories/
+- title: About
+  url: /about/
+
+#- title: Years
+#  url: /years/
+  
+#- title: Categories
+#  url: /categories/
+#
+#- title: More
+#  sublinks:
+#    - title: FAQ
+#      url: /faq/
+#    - title: Docs
+#      url: /docs/
+      
+- title: Project & Event
+  url: /project&event/
+
 - title: Tags
   url: /tags/
-- title: More
-  sublinks:
-    - title: FAQ
-      url: /faq/
-    - title: Docs
-      url: /docs/
-- title: Project & Event
-  sublinks:
-    - title: Project
-      url: /project/
-    - title: Event
-      url: /event/
+
 - title: app-ads.txt
   url: /app-ads.txt/
