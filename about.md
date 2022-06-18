@@ -14,7 +14,7 @@ permalink: /about/
 
 <span style="font-size:2em; color:#33FFFF;">Career</span>
 <br>
-❖  현) CIT 코딩학원 압구정점 강사 (2022.03)  
+❖  현) CIT 코딩학원 압구정점 강사 (2022.03 ~ )  
 ❖  현) (주)마준소프트 IDC팀 매니저 (2022.03 ~ )   
 <br>
 <br>
