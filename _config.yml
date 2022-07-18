@@ -34,11 +34,12 @@ exclude:
 #  card: summary
 logo: profile.png
 social:
-#  name: Shangzhi Huang
-#  links:
+  name: Seokcheon Jeong
+  links:
 #    - https://twitter.com/ngzhio
 #    - https://www.facebook.com/ngzhio
-#    - https://github.com/Accio3014
+    - https://github.com/Accio3014
+    - https://passing-story.tistory.com/
 # google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
 
