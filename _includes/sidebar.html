@@ -1,53 +1,84 @@
 {% if site.avatar -%}
-  <div class="sidebar-section">
+<div class="sidebar-section">
     {%- if site.avatar contains "://" -%}
-      {%- assign avatar = site.avatar -%}
+    {%- assign avatar = site.avatar -%}
     {%- else -%}
-      {%- assign avatar = site.avatar | relative_url -%}
+    {%- assign avatar = site.avatar | relative_url -%}
     {%- endif -%}
     <img src="{{ avatar }}" class="author-avatar u-photo align-center" alt="{{ site.author }}">
-  </div>
+</div>
 {%- endif %}
+
+<!--<div class="sidebar-section">-->
+<!--  <ul class="contact-list">-->
+<!--    {% if site.author -%}-->
+<!--      <li>-->
+<!--        <i class="sidebar-icon fas fa-at"></i>-->
+<!--        <span class="contact-info p-name">{{ site.author | escape }}</span>-->
+<!--      </li>-->
+<!--    {%- endif %}-->
+<!--    {% if site.email -%}-->
+<!--      <li>-->
+<!--        <i class="sidebar-icon fas fa-envelope"></i>-->
+<!--        <a class="contact-info u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>-->
+<!--      </li>-->
+<!--    {%- endif %}-->
+<!--    {% if site.location -%}-->
+<!--      <li>-->
+<!--        <i class="sidebar-icon fas fa-location-arrow"></i>-->
+<!--        <a class="contact-info u-location" href="https://www.google.com/maps/search/{{ site.location }}">{{ site.location }}</a>-->
+<!--      </li>-->
+<!--    {%- endif %}-->
+<!--  </ul>-->
+<!--</div>-->
+<!---->
+<!--{% if site.subscribe != false -%}-->
+<!--<div class="sidebar-section feed-subscribe">-->
+<!--  <a href="{{ 'feed.xml' | relative_url }}">-->
+<!--    <i class="sidebar-icon fas fa-rss"></i><span>Subscribe</span>-->
+<!--  </a>-->
+<!--</div>-->
+<!--{%- endif %}-->
+<!---->
+<!--{% if site.data.social -%}-->
+<!--  <div class="sidebar-section">-->
+<!--    <ul class="social-icons">-->
+<!--      {% for social in site.data.social -%}-->
+<!--        <li>-->
+<!--          <a class="social-icon" href="{{ social.url }}"><i class="{{ social.icon | default: 'fas fa-link' }} fa-2x" title="{{ social.title }}"></i></a>-->
+<!--        </li>-->
+<!--      {%- endfor %}-->
+<!--    </ul>-->
+<!--  </div>-->
+<!--{%- endif %}-->
 
 <div class="sidebar-section">
-  <ul class="contact-list">
-    {% if site.author -%}
-      <li>
-        <i class="sidebar-icon fas fa-at"></i>
-        <span class="contact-info p-name">{{ site.author | escape }}</span>
-      </li>
-    {%- endif %}
-    {% if site.email -%}
-      <li>
-        <i class="sidebar-icon fas fa-envelope"></i>
-        <a class="contact-info u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-      </li>
-    {%- endif %}
-    {% if site.location -%}
-      <li>
-        <i class="sidebar-icon fas fa-location-arrow"></i>
-        <a class="contact-info u-location" href="https://www.google.com/maps/search/{{ site.location }}">{{ site.location }}</a>
-      </li>
-    {%- endif %}
-  </ul>
-</div>
-
-{% if site.subscribe != false -%}
-<div class="sidebar-section feed-subscribe">
-  <a href="{{ 'feed.xml' | relative_url }}">
-    <i class="sidebar-icon fas fa-rss"></i><span>Subscribe</span>
-  </a>
-</div>
-{%- endif %}
-
-{% if site.data.social -%}
-  <div class="sidebar-section">
-    <ul class="social-icons">
-      {% for social in site.data.social -%}
+    <ul class="contact-list">
         <li>
-          <a class="social-icon" href="{{ social.url }}"><i class="{{ social.icon | default: 'fas fa-link' }} fa-2x" title="{{ social.title }}"></i></a>
+            <i class="sidebar-icon fas fa-at"></i>
+            <span class="contact-info p-name">accio3014</span>
         </li>
-      {%- endfor %}
+        <li>
+            <i class="sidebar-icon fas fa-envelope"></i>
+            <a class="contact-info u-email" href="mailto:accio3014@gmail.com">accio3014@gmail.com</a>
+        </li>
+        
     </ul>
-  </div>
-{%- endif %}
+</div>
+
+<div class="sidebar-section feed-subscribe">
+    <!--                        <a href="/feed.xml">-->
+    <!--                            <i class="sidebar-icon fas fa-rss"></i><span>Subscribe</span>-->
+    <!--                        </a>-->
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Faccio3014.github.io&count_bg=%23FF0000&title_bg=%23626262&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+</div>
+
+<div class="sidebar-section">
+    <ul class="social-icons">
+        <li>
+            <a class="social-icon" href="https://github.com/accio3014" target="_blank"><i class="fab fa-github fa-2x" title="GitHub"></i></a>
+        </li><li>
+            <a class="social-icon" href="https://passing-story.tistory.com/" target="_blank"><i class="fab fa-blogger fa-2x" title="Tistory"></i></a>
+        </li>
+    </ul>
+</div>
