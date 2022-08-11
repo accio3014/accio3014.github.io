@@ -7,7 +7,7 @@ permalink: /about/
 <br>      
 ❖  정석천      
 ❖  ENTJ    
-❖  IT Skills : C • Java • Python • Swift • Forensics • PhotoShop • Linux      
+❖  IT Skills : C • Java • Python • Swift • Assembler • Forensics • PhotoShop • Linux      
 <br>
 <br>
 <br>
