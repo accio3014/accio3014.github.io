@@ -8,7 +8,7 @@ layout: home
 <br>      
 ❖  정석천      
 ❖  ENTJ    
-❖  IT Skills : C • Java • Python • Swift • Forensics • PhotoShop • Linux      
+❖  IT Skills : C • Java • Python • Swift • Assembler • Forensics • PhotoShop • Linux      
 <br>
 <br>
 <br>
@@ -37,3 +37,4 @@ layout: home
 <span style="font-size:2em; color:#33FFFF;">Certificate</span>
 <br>   
 ❖  리눅스마스터 2급 (2019.10.11)
+
