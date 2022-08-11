@@ -22,3 +22,13 @@ Magic mirror project는  라즈베리파이를 활용한
 </figcaption>
 </div>
 </figure>
+
+<br>
+<span style="font-size:1.5em; color:#66CCFF;">개발 환경 및 준비물</span>
+<br>
+라즈베리파이 3B   
+7인치 스크린   
+A4 크기의 이중 거울   
+A4 크기의 액자   
+A4 크기의 검은색 종이   
+Magic mirror : <div><a href="https://docs.magicmirror.builders/">Magic mirror</a></div>
