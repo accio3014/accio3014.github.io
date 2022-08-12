@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Magic mirror project
+title: Smart mirror
 tags: [project]
 ---
 
-<span style="font-size:3em; color:#33FFFF;">Magic mirror project</span>
+<span style="font-size:3em; color:#33FFFF;">Smart mirror</span>
 <br>     
-Magic mirror project는  라즈베리파이를 활용한
+Smart mirror는  라즈베리파이를 활용한
 <span style="font-size:1em; color:#FF0033;">스마트미러</span> 
 제작 프로젝이다.
 <br>
