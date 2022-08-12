@@ -8,10 +8,10 @@ tags: [project]
 <br>     
 Magic mirror project는  라즈베리파이를 활용한
 <span style="font-size:1em; color:#FF0033;">스마트미러</span> 
-프로젝이다.
+제작 프로젝이다.
 <br>
 
-<span style="font-size:1.5em; color:#66CCFF;">프로젝트 개발동기 및 목적</span>    
+<span style="font-size:1.5em; color:#66CCFF;">프로젝트 제작동기 및 목적</span>    
 <br>
 해당 프로젝트는 기존에 사용하고 있던 라즈베리파이를 어떻게 하면 응용을 할 수 있을까 생각하던 와중 이전에 보았던 스마트미러를 직접 만들고 싶어 진행하였다.
 <figure>
@@ -24,7 +24,7 @@ Magic mirror project는  라즈베리파이를 활용한
 </figure>
 <br>
 
-<span style="font-size:1.5em; color:#66CCFF;">개발 환경 및 준비물</span>
+<span style="font-size:1.5em; color:#66CCFF;">제작 환경 및 준비물</span>
 <br>
 라즈베리파이 3B   
 7인치 스크린   
@@ -34,10 +34,10 @@ A4 크기의 검은색 종이
 <a href="https://docs.magicmirror.builders/">Magic mirror</a>
 <br>
 
-<span style="font-size:1.5em; color:#66CCFF;">개발 과정</span>
+<span style="font-size:1.5em; color:#66CCFF;">제작 과정</span>
 <br>
 <br>
-개발 과정에 있는 상세 내용은 <a href="https://passing-story.tistory.com/">Tistory</a>에서 확인 가능하다.
+제작 과정의 상세 내용은 <a href="https://passing-story.tistory.com/">Tistory</a>에서 확인 가능하다.
 <br>
 <br>
 
