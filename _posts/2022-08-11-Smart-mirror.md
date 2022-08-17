@@ -37,7 +37,7 @@ A4 크기의 검은색 종이
 <span style="font-size:1.5em; color:#66CCFF;">제작 과정</span>
 <br>
 <br>
-제작 과정의 상세 내용은 <a href="https://passing-story.tistory.com/entry/%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AF%B8%EB%9F%AC-%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AF%B8%EB%9F%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%A0%9C%EC%9E%91-%EA%B3%84%EA%B8%B0-%EB%B0%8F-%EC%A4%80%EB%B9%84%EB%AC%BC">Tistory</a>에서 확인 가능하다.
+제작 과정의 상세 내용은 <a href="https://passing-story.tistory.com/entry/%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AF%B8%EB%9F%AC-%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AF%B8%EB%9F%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%A0%9C%EC%9E%91-%EA%B3%84%EA%B8%B0-%EB%B0%8F-%EC%A4%80%EB%B9%84%EB%AC%BC?category=1076909">Tistory</a>에서 확인 가능하다.
 <br>
 <br>
 
