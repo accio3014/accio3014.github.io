@@ -199,6 +199,13 @@ my-sql을 대상으로 무차별 대입 공격
 <br>
 
 
+<span style="font-size:1.5em; color:#66CCFF;">실습 후기</span>
+<br>
+이론상 가장 효과적인 무차별 대입 공격 실습을 하면서 로그인 시도 횟수 및 효과적인 암호를 위해 특수문자, 대문자, 숫자 등 여러 기호를 넣어야 하는 이유에 대해 다시 생각 해볼 수 있었으며, 서버 또는 DB 구축 시 로그인 실패 횟수를 설정하여 해당 취약점에 대비해야 한다.
+<br>
+<br>
+
+
 <span style="font-size:1.5em; color:#66CCFF;">Author</span>
 <p>
 <div>
