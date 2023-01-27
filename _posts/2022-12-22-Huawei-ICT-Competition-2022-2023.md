@@ -1,11 +1,12 @@
 ---
 layout: post
+toc: true
 title: "2022-2023 화웨이 ICT 경진대회"
 tags: [event]
+author: Seokcheon Jeong
 ---
 
-<span style="font-size:3em; color:#33FFFF;">2022-2023 화웨이 ICT 경진대회</span>
-<br> 
+## <span style="color:#33FFFF;">2022-2023 화웨이 ICT 경진대회</span>
 본문은 2022-2023 화웨이 ICT 경진대회(Huawei ICT Competition 2022-2023)에 입상하여 우수상을 받은 내용이다.
 <br>
 <br>
@@ -29,7 +30,7 @@ tags: [event]
 <br>
 
 
-<span style="font-size:1.5em; color:#66CCFF;">관련 기사</span>
+### <span style="color:#66CCFF;">관련 기사</span>
 <p>
 <div>
    <a href="https://www.techm.kr/news/articleView.html?idxno=105095" target="_blank">TechM - 한국화웨이 'ICT 경진대회' 국내 예선 시상…"한국 ICT 인재 양성 지속 지원"</a>

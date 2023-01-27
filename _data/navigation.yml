@@ -1,9 +1,9 @@
 - title: About
   url: /about/
 
-#- title: Years
-#  url: /years/
-  
+# - title: Years
+#   url: /years/
+
 #- title: Categories
 #  url: /categories/
 #
@@ -13,7 +13,7 @@
 #      url: /faq/
 #    - title: Docs
 #      url: /docs/
-      
+
 - title: Project & Event
   url: /project&event/
 
