@@ -5,9 +5,9 @@ permalink: /about/
 ---
 <span style="font-size:2em; color:#33FFFF;">Personal</span>
 <br>
-❖  정석천      
-❖  ENTJ    
-❖  IT Skills : C • Java • Python • Swift • Assembler • Forensics • PhotoShop • Linux      
+❖  Name : accio      
+❖  MBTI : ENTJ    
+❖  IT skills : C • Java • Python • Swift • Assembler • Forensics • PhotoShop • Linux      
 <br>
 <br>
 <br>
