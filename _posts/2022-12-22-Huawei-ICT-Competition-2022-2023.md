@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "2022-2023 화웨이 ICT 경진대회"
 tags: [event]
-author: Seokcheon Jeong
+author: accio
 ---
 
 ## <span style="color:#33FFFF;">2022-2023 화웨이 ICT 경진대회</span>
