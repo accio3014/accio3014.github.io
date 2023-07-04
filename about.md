@@ -3,6 +3,22 @@ layout: page
 title: About
 permalink: /about/
 ---
+
+<style>
+    a.activity:link {
+        color : white;
+    }
+    a.activity:visited {
+        color : pink;
+    }
+    a.activity:hover {
+        color : red;
+    }
+    a.activity:active {
+        color : blue;
+    }
+</style>
+
 <span style="font-size:2em; color:#33FFFF;">Personal</span>
 <br>
 ❖  Name : accio      
@@ -25,7 +41,7 @@ permalink: /about/
 <br>
 ❖  ‘Doubles1405’ 스터디 회원 <span style="font-size:0.8em;">(2020.03 ~ )</span>    <br />
 <br />
-❖  K-shield Jr. <span style="font-size:0.8em;">(10기, 2023.03.06 ~ 2023.05.25 -200H)</span>    <br />
+❖ <a class="activity" href="https://accio3014.github.io/2023/05/25/K-shield-Jr-10.html" target="_blank" >K-shield Jr. <span style="font-size:0.8em;">(10기, 2023.03.06 ~ 2023.05.19 -200H)</span> </a>    <br />
 ❖  학생동아리 ‘assem’ 회장 <span style="font-size:0.8em;">(2022.03 ~ 2023.03)</span>    <br />
 ❖  2022-2023 화웨이 ICT 경진대회    <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Huawei ICT Competition 2022-2023 우수상 <span style="font-size:0.8em;">(2022.12.22)</span>     <br />
