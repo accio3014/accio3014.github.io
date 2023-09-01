@@ -2,19 +2,22 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="10;url=https://naver.com">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Intermediate Page</title>
-    <script>
-        // Wait for the page to fully load
-        window.onload = function() {
-            // After a 10 second delay, redirect to the desired website
-            setTimeout(function(){
-                window.location.href = "https://naver.com";
-            }, 10000);  // 10000 milliseconds = 10 seconds
+    <style>
+        /* Optional: hide the body content */
+        body { 
+            visibility: hidden; 
         }
+    </style>
+    <script>
+        setTimeout(function(){
+            window.location.href = "https://naver.com";
+        }, 10000); 
     </script>
 </head>
 <body>
-    Redirecting in 10 seconds...
+    <!-- Body content is hidden via CSS -->
 </body>
 </html>
