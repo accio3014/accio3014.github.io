@@ -2,14 +2,19 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Initiating Call...</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intermediate Page</title>
     <script>
-        setTimeout(function(){
-            window.location.href = 'tel:01040183014';
-        }, 3000); // 10 seconds delay
+        // Wait for the page to fully load
+        window.onload = function() {
+            // After a 10 second delay, redirect to the desired website
+            setTimeout(function(){
+                window.location.href = "https://desired-final-destination.com";
+            }, 10000);  // 10000 milliseconds = 10 seconds
+        }
     </script>
 </head>
 <body>
-    Initiating a call in 10 seconds...
+    Redirecting in 10 seconds...
 </body>
 </html>
