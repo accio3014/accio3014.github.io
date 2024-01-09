@@ -6,10 +6,10 @@ permalink: /about/
 
 <style>
     a.activity:link {
-        color : white;
+        color : pink;
     }
     a.activity:visited {
-        color : pink;
+        color : white;
     }
     a.activity:hover {
         color : red;
