@@ -58,7 +58,7 @@ permalink: /about/
 <br>
 진행한 프로젝트&이벤트는 <a class="activity" href="https://accio3014.github.io/project&event/" target="_blank" >여기</a>를 클릭하면 확인 가능하다.    <br />
 
-❖ <a class="activity" href="" target="_blank" >2023-2024 화웨이 ICT 경진대회
+❖ <a class="activity" href="https://accio3014.github.io/2023/12/22/Huawei-ICT-Competition-2023-2024.html" target="_blank" >2023-2024 화웨이 ICT 경진대회
  <span style="font-size:0.8em;">(대회 -2위)</span> </a>    <br />
 ❖ <a class="activity" href="https://accio3014.github.io/2023/06/14/JMT.html" target="_blank" >JMT <span style="font-size:0.8em;">(구글해킹 진단 도구 -졸업작품)</span> </a>    <br />
 ❖ <a class="activity" href="https://accio3014.github.io/2023/05/25/K-shield-Jr-10.html" target="_blank" >K-shield Jr. <span style="font-size:0.8em;">(연구 프로젝트)</span> </a>    <br />
