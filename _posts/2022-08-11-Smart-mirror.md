@@ -9,13 +9,13 @@ author: accio
 ## <span style="color:#33FFFF;">Smart mirror</span>
 Smart mirror는  라즈베리파이를 활용한
 <span style="font-size:1em; color:#FF0033;">스마트미러</span> 
-제작 프로젝이다.
+제작 프로젝트이다.
 <br>
 <br>
 <br>
 
 ### <span style="color:#66CCFF;">프로젝트 제작동기 및 목적</span>
-해당 프로젝트는 기존에 사용하고 있던 라즈베리파이를 어떻게 하면 응용을 할 수 있을까 생각하던 와중 이전에 보았던 스마트미러를 직접 만들고 싶어 진행하였다.
+해당 프로젝트는 기존에 사용하고 있던 라즈베리파이를 어떻게 하면 실생활에서 사용 할 수 있을까 생각하던 와중 이전에 보았던 스마트미러를 직접 만들고 싶어 진행하였다.
 <figure>
     <img src="https://user-images.githubusercontent.com/92027143/184171480-6fc35d3d-cf78-447d-8467-44754d3c12b5.jpg">
     <div style="text-align:center">
@@ -46,8 +46,4 @@ A4 크기의 검은색 종이
 <br>
 
 ## <span style="color:#33FFFF;">Author</span>
-<p>
-<div>
-   <a href="https://accio3014.github.io/" target="_blank">accio</a>
-</div>
-</p>
+<a href="https://accio3014.github.io/" target="_blank">accio</a>
