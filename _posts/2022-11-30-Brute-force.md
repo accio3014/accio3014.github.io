@@ -191,8 +191,4 @@ my-sql을 대상으로 무차별 대입 공격
 <br>
 
 ## <span style="color:#33FFFF;">Author</span>
-<p>
-<div>
-   <a href="https://accio3014.github.io/" target="_blank">accio</a>
-</div>
-</p>
+<a href="https://accio3014.github.io/" target="_blank">accio</a>
