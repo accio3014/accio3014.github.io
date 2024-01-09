@@ -7,7 +7,7 @@ author: accio
 ---
 
 ## <span style="color:#33FFFF;">2022-2023 화웨이 ICT 경진대회</span>
-본문은 2022-2023 화웨이 ICT 경진대회(Huawei ICT Competition 2022-2023)에 입상하여 우수상을 받은 내용이다.
+본문은 2022-2023 화웨이 ICT 경진대회(Huawei ICT Competition 2022-2023)에 입상하여 우수상을 받은 내용이다. 한국에서의 첫 대회이며 3가지 트랙들 중 네트워크 트랙으로 입상을 하였다.
 <br>
 <br>
 <div style="text-align:center;">
