@@ -21,9 +21,8 @@ permalink: /about/
 
 <span style="font-size:2em; color:#33FFFF;">Personal</span>
 <br>
-❖  Name : accio      
 ❖  MBTI : ENTJ    
-❖  IT skills : C • Java • Python • Swift • Assembler • Forensics • PhotoShop • Linux      
+❖  IT skills : C • Java • Python • Swift • Kotlin • Assembler • Forensics • PhotoShop • Linux      
 <br>
 <br>
 <br>
@@ -31,7 +30,7 @@ permalink: /about/
 <span style="font-size:2em; color:#33FFFF;">Career</span>
 <br>
 ❖  현) CIT 코딩학원 압구정점 강사 <span style="font-size:0.8em;">(2022.03 ~ )</span><br />
-❖  현) 프리랜서 안드로이드 앱 개발자 <span style="font-size:0.8em;">(2020.10 ~ )</span><br />     
+❖  현) 프리랜서 IOS•Android 개발자 <span style="font-size:0.8em;">(2020.10 ~ )</span><br />     
 ❖  (주)마준소프트 IDC팀 매니저 <span style="font-size:0.8em;">(2022.03 ~ 2023.02)</span><br />
 <br>
 <br>
@@ -41,6 +40,8 @@ permalink: /about/
 <br>
 ❖  ‘Doubles1405’ 스터디 회원 <span style="font-size:0.8em;">(2020.03 ~ )</span>    <br />
 <br />
+❖  2023-2024 화웨이 ICT 경진대회    <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Huawei ICT Competition 2023-2024 2위 <span style="font-size:0.8em;">(2023.12.22)</span>     <br />
 ❖ <a class="activity" href="https://accio3014.github.io/2023/05/25/K-shield-Jr-10.html" target="_blank" >K-shield Jr. <span style="font-size:0.8em;">(10기, 2023.03.06 ~ 2023.05.19 -200H)</span> </a>    <br />
 ❖  학생동아리 ‘assem’ 회장 <span style="font-size:0.8em;">(2022.03 ~ 2023.03)</span>    <br />
 ❖  2022-2023 화웨이 ICT 경진대회    <br />
